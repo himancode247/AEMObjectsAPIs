@@ -18,6 +18,7 @@ The main parts of the template are:
 
 ## How to build
 Changes in Readme
+Dev branch changes
 
 To build all the modules run in the project root directory the following command with Maven 3:
 
