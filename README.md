@@ -17,6 +17,7 @@ The main parts of the template are:
 * analyse: this module runs analysis on the project which provides additional validation for deploying into AEMaaCS
 
 ## How to build
+Changes in Readme
 
 To build all the modules run in the project root directory the following command with Maven 3:
 
